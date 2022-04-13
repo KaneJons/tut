@@ -23,8 +23,7 @@ namespace PresentationTier
     {
         public MainWindow()
         {
-            Колледж logicTier = new Колледж();
-            this.DataContext = logicTier;
+
             InitializeComponent();
 
         }

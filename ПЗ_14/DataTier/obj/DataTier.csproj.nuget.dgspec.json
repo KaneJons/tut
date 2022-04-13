@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visiual Studio\\Бельчич практосы\\ПЗ_14\\DataTier\\DataTier.csproj": {}
+    "C:\\Users\\strel\\OneDrive\\Рабочий стол\\пробный проект\\ПЗ_14\\DataTier\\DataTier.csproj": {}
   },
   "projects": {
-    "D:\\Visiual Studio\\Бельчич практосы\\ПЗ_14\\DataTier\\DataTier.csproj": {
+    "C:\\Users\\strel\\OneDrive\\Рабочий стол\\пробный проект\\ПЗ_14\\DataTier\\DataTier.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visiual Studio\\Бельчич практосы\\ПЗ_14\\DataTier\\DataTier.csproj",
+        "projectUniqueName": "C:\\Users\\strel\\OneDrive\\Рабочий стол\\пробный проект\\ПЗ_14\\DataTier\\DataTier.csproj",
         "projectName": "DataTier",
-        "projectPath": "D:\\Visiual Studio\\Бельчич практосы\\ПЗ_14\\DataTier\\DataTier.csproj",
+        "projectPath": "C:\\Users\\strel\\OneDrive\\Рабочий стол\\пробный проект\\ПЗ_14\\DataTier\\DataTier.csproj",
         "packagesPath": "C:\\Users\\strel\\.nuget\\packages\\",
-        "outputPath": "D:\\Visiual Studio\\Бельчич практосы\\ПЗ_14\\DataTier\\obj\\",
+        "outputPath": "C:\\Users\\strel\\OneDrive\\Рабочий стол\\пробный проект\\ПЗ_14\\DataTier\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

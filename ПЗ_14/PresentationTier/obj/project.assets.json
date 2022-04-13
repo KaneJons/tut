@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visiual Studio\\Бельчич практосы\\ПЗ_14\\PresentationTier\\PresentationTier.csproj",
+      "projectUniqueName": "C:\\Users\\strel\\OneDrive\\Рабочий стол\\пробный проект\\ПЗ_14\\PresentationTier\\PresentationTier.csproj",
       "projectName": "PresentationTier",
-      "projectPath": "D:\\Visiual Studio\\Бельчич практосы\\ПЗ_14\\PresentationTier\\PresentationTier.csproj",
+      "projectPath": "C:\\Users\\strel\\OneDrive\\Рабочий стол\\пробный проект\\ПЗ_14\\PresentationTier\\PresentationTier.csproj",
       "packagesPath": "C:\\Users\\strel\\.nuget\\packages\\",
-      "outputPath": "D:\\Visiual Studio\\Бельчич практосы\\ПЗ_14\\PresentationTier\\obj\\",
+      "outputPath": "C:\\Users\\strel\\OneDrive\\Рабочий стол\\пробный проект\\ПЗ_14\\PresentationTier\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -76,8 +76,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "D:\\Visiual Studio\\Бельчич практосы\\ПЗ_14\\LogicTier\\LogicTier.csproj": {
-              "projectPath": "D:\\Visiual Studio\\Бельчич практосы\\ПЗ_14\\LogicTier\\LogicTier.csproj"
+            "C:\\Users\\strel\\OneDrive\\Рабочий стол\\пробный проект\\ПЗ_14\\LogicTier\\LogicTier.csproj": {
+              "projectPath": "C:\\Users\\strel\\OneDrive\\Рабочий стол\\пробный проект\\ПЗ_14\\LogicTier\\LogicTier.csproj"
             }
           }
         }
@@ -109,7 +109,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
