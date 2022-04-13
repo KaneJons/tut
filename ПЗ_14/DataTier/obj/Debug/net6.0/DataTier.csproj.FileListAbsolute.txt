@@ -1,0 +1,12 @@
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\DataTier\bin\Debug\net6.0\DataTier.deps.json
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\DataTier\bin\Debug\net6.0\DataTier.dll
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\DataTier\bin\Debug\net6.0\ref\DataTier.dll
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\DataTier\bin\Debug\net6.0\DataTier.pdb
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\DataTier\obj\Debug\net6.0\DataTier.csproj.AssemblyReference.cache
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\DataTier\obj\Debug\net6.0\DataTier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\DataTier\obj\Debug\net6.0\DataTier.AssemblyInfoInputs.cache
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\DataTier\obj\Debug\net6.0\DataTier.AssemblyInfo.cs
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\DataTier\obj\Debug\net6.0\DataTier.csproj.CoreCompileInputs.cache
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\DataTier\obj\Debug\net6.0\DataTier.dll
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\DataTier\obj\Debug\net6.0\ref\DataTier.dll
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\DataTier\obj\Debug\net6.0\DataTier.pdb

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PresentationTier/1.0.0": {
+        "dependencies": {
+          "LogicTier": "1.0.0"
+        },
+        "runtime": {
+          "PresentationTier.dll": {}
+        }
+      },
+      "DataTier/1.0.0": {
+        "runtime": {
+          "DataTier.dll": {}
+        }
+      },
+      "LogicTier/1.0.0": {
+        "dependencies": {
+          "DataTier": "1.0.0"
+        },
+        "runtime": {
+          "LogicTier.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PresentationTier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataTier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicTier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

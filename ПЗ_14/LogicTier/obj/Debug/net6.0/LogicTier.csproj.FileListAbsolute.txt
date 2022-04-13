@@ -1,0 +1,15 @@
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\LogicTier\bin\Debug\net6.0\LogicTier.deps.json
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\LogicTier\bin\Debug\net6.0\LogicTier.dll
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\LogicTier\bin\Debug\net6.0\ref\LogicTier.dll
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\LogicTier\bin\Debug\net6.0\LogicTier.pdb
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\LogicTier\bin\Debug\net6.0\DataTier.dll
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\LogicTier\bin\Debug\net6.0\DataTier.pdb
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\LogicTier\obj\Debug\net6.0\LogicTier.csproj.AssemblyReference.cache
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\LogicTier\obj\Debug\net6.0\LogicTier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\LogicTier\obj\Debug\net6.0\LogicTier.AssemblyInfoInputs.cache
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\LogicTier\obj\Debug\net6.0\LogicTier.AssemblyInfo.cs
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\LogicTier\obj\Debug\net6.0\LogicTier.csproj.CoreCompileInputs.cache
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\LogicTier\obj\Debug\net6.0\LogicTier.csproj.CopyComplete
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\LogicTier\obj\Debug\net6.0\LogicTier.dll
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\LogicTier\obj\Debug\net6.0\ref\LogicTier.dll
+D:\Visiual Studio\Бельчич практосы\ПЗ_14\LogicTier\obj\Debug\net6.0\LogicTier.pdb
